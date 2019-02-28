@@ -29,11 +29,11 @@ run.py uses the two files to run the final code and convert input frame into gro
 To run the code use :
  >> python run.py -size1 400 -size2 400 -strip_size 100 -cam 0 -k_value 3
  
- Above shows the default value in used in the program change accordingly for one's convenience.
- size1 and size2 -  dimensions of video feed
- strip_size      -  ground assumption
- cam             -  the cam used for taking in video
- k_value         -  no. of clusters
+ Above shows the default value in used in the program change accordingly for one's convenience.   
+ size1 and size2 -  dimensions of video feed   
+ strip_size      -  ground assumption    
+ cam             -  the cam used for taking in video    
+ k_value         -  no. of clusters    
 
 
 ### Runtime Speed.
